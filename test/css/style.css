@@ -1,0 +1,33 @@
+header, aside, main, footer {
+   padding: 100px 0;
+   text-align: center;
+}
+header {
+   margin: 10 px auto;
+   background: pink;
+   height: 100px;
+   width: 1460px;
+   text-align: center;
+}
+div {
+   margin: 10px auto;
+   width: 960px;
+   text-align: center;
+}
+main {
+   background: darkgray;
+   height: 1900px autos;
+}
+aside {
+   background: yellow;
+   height: 300px;
+   width: 300px;
+   float: left;
+}
+footer {
+    margin: 10px auto;
+   background: pink;
+   height: 100px;
+   width: 1960px;
+   text-align: center;
+}
